@@ -2,13 +2,13 @@
 # Java Spring Boot Quiz app
 
 A backend application,
-One can create different cateory and language specific question.
-Can take quiz and then test it with right answer.
+One can create different categories and language-specific questions.
+Can take the quiz and then test it with the right answer.
 
 
 
 
-## Features
+## Features Api
 
 - Quiz Creation: 
     - Users can create quizzes question by adding questions, answer choices, and correct answers
